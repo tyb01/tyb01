@@ -1,8 +1,20 @@
 # 💼 Muhammad Tayyab  
 
-<p align="right">
-  <img src="https://github.com/tyb01/tyb01/blob/main/PROFILEPIC.jpg" width="150">
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>Muhammad Tayyab</h1>
+      🎓 <strong>Bachelors in Data Science</strong> (2023-2027) – <strong>PUCIT Lahore</strong>  
+      📍 <strong>Lahore, Pakistan</strong>  
+      📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
+      📞 0302-9629831  
+      🔗 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
+    </td>
+    <td>
+      <img src="https://github.com/tyb01/tyb01/blob/main/PROFILEPIC.jpg" width="150">
+    </td>
+  </tr>
+</table>
 
 
 🎓 **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  

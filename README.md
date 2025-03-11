@@ -1,6 +1,9 @@
 # 💼 Muhammad Tayyab  
 
-![Muhammad Tayyab](https://github.com/tyb01/tyb01/blob/main/PROFILEPIC.jpg)  
+<p align="right">
+  <img src="https://github.com/tyb01/tyb01/blob/main/PROFILEPIC.jpg" width="150">
+</p>
+
 
 🎓 **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  
@@ -9,7 +12,7 @@
 🔗 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
 
 ## Objective  
-Dedicated Data Science student at PUCIT with strong problem-solving and programming skills. Experienced in tech competitions, teamwork, and algorithm challenges. Aspiring to grow as a programmer and entrepreneur as a tech person. 
+Data Science student at PUCIT with strong problem-solving and programming skills. Experienced in tech competitions, teamwork, and algorithm challenges. Aspiring to grow as a programmer and entrepreneur as a tech person. 
 
 ---
 
@@ -24,7 +27,7 @@ Dedicated Data Science student at PUCIT with strong problem-solving and programm
 -  Python  
 -  C++  
 -  HTML / CSS  
--  Freelancing Development  
+-  Data Visualization
 
 ### **Soft Skills:**  
 -  Competitive Programming  

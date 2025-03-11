@@ -1,6 +1,6 @@
 # 💼 Muhammad Tayyab  
 <p align="right">
-  <img src="https://raw.githubusercontent.com/tyb01/tyb01/main/your-image.png" width="150">
+  <img src="https://github.com/tyb01/tyb01/blob/main/PROFILEPIC.jpg" width="150">
 </p>
 🎓 **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  

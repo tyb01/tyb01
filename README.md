@@ -11,7 +11,7 @@ Data Science student at PUCIT with strong problem-solving and programming skills
 
 ---
 
-## 🏆 Achievements  
+##  Achievements  
 - Solved **250+ programming problems** across various platforms, enhancing problem-solving and algorithmic thinking.  
 - Developed a **comprehensive Inventory Management System** in Python using OOP principles, featuring efficient stock tracking, user management, and report generation.  
 

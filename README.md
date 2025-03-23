@@ -1,6 +1,6 @@
-# 💼 Muhammad Tayyab  
+#  Muhammad Tayyab  
 
-🎓 **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  
+ **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  
 📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
 📞 0302-9629831  
@@ -17,7 +17,7 @@ Data Science student at PUCIT with strong problem-solving and programming skills
 
 ---
 
-## 💻 Skills  
+##  Skills  
 ### **Technical Skills:**  
 -  Python  
 -  C++  
@@ -32,12 +32,12 @@ Data Science student at PUCIT with strong problem-solving and programming skills
 
 ---
 
-## 🎓 Education  
+##  Education  
 - **Bachelors in Data Science** – **PUCIT Lahore** *(2023-2027)*  
 
 ---
 
-## 📌 Personal Details  
+##  Personal Details  
 - **Address:** Lahore,Punjab 
 - **Nationality:** Pakistan  
 - **Gender:** Male  

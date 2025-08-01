@@ -1,7 +1,6 @@
 # Muhammad Tayyab  
 
-**Pursuing Bachelors in Data Science** – **PUCIT Lahore**  
-📍 *Lahore, Pakistan*
+**Pursuing Bachelors in Data Science**
 ---
 
 ## Objective  

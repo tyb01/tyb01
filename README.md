@@ -14,23 +14,24 @@ A passionate Data Science student at PUCIT with a strong foundation in programmi
 
 ## Experience  
 
--  **Backend Development:**  
-  Worked with teams to Built and maintained backend systems using **Django**, **REST APIs**, and **databases**. Experience includes designing clean, scalable architectures for real-world applications.  
+- **Backend Development:**  
+  Worked with teams to build and maintain backend systems using **Django**, **REST APIs**, and **databases**. Experience includes designing clean, scalable architectures for real-world applications.  
   
--  **LLM & AI Projects:**  
-  Worked on **LLM-based applications** using **LangChain** and **LangGraph**, focusing on prompt engineering, memory chains, retrieval (RAG), and tool integration. Developed solutions for tasks like **chat interfaces**, **document Q&A**, and **automation using language models**.
+- **LLM & AI Projects:**  
+  Contributed to **LLM-based applications** using **LangChain** and **LangGraph**, with a focus on prompt engineering, memory chains, retrieval (RAG), and tool integration. Developed solutions such as chat interfaces, document Q&A systems, and language model-driven automation.
 
--  **Automation & Bot Development:**  
-  Built custom browser automation tools for client use cases using tools like **Selenium, Playwright**, **undetected drivers**, and **virtual browser environments**.  
-  - Successfully developed a **Facebook Profile Automation System** that handled over **900+ Facebook IDs** — automating login, story viewing, session handling, and anti-bot evasion using iXBrowser and Python.  
-  - Delivered production-ready automation for two separate clients, ensuring performance, error handling, and scalability across hundreds of profiles.  
-  
--  **Project Highlights:**  
-  - Developed a **custom AI assistant** that integrates with private data sources using LangChain and vector databases.  
-  - Built a **multi-user backend system** with admin roles, JWT auth, and async task handling.  
-  - Participated in team-based projects involving **API design**, **Git version control**, and **agile workflows**.  
-- Solved **300+ programming problems** across multiple platforms, sharpening algorithmic thinking and logical problem-solving.  
-- Built a complete **Inventory Management System** using Python and OOP — featuring stock tracking, user roles, and report generation.  
+- **Automation & Bot Development:**  
+  Built custom browser automation tools for client-specific use cases using technologies like **Selenium**, **Playwright**, **undetected drivers**, and **virtual browser environments**.  
+  - Developed a **Facebook Profile Automation System** that managed over **900 Facebook IDs**, automating tasks like login, story viewing, session management, and bot detection evasion using iXBrowser and Python.  
+  - Delivered production-ready automation for two clients, focusing on reliability, error handling, and scalability.
+
+- **Project Highlights:**  
+  - Built a **custom AI assistant** integrating private data sources using LangChain and vector databases.  
+  - Participated in team-based projects involving **API design**, **Git version control**, and **agile development workflows**.
+
+- Solved over **300 programming problems** across multiple platforms, strengthening algorithmic thinking and problem-solving skills.  
+- Created a complete **Inventory Management System** in Python using OOP, with features like stock tracking, user roles, and reporting.
+
 
 ---
 

@@ -1,52 +1,49 @@
-#  Muhammad Tayyab  
+# Muhammad Tayyab  
 
- **Bachelors in Data Science** (2023-2027) – **PUCIT Lahore**  
+**Bachelors in Data Science** (2023–2027) – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  
 📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
 📞 0302-9629831  
 🔗 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
 
+---
+
 ## Objective  
-Data Science student at PUCIT with strong problem-solving and programming skills. Experienced in tech competitions, teamwork, and algorithm challenges. Aspiring to grow as a programmer and entrepreneur as a tech person. 
+A passionate Data Science student at PUCIT with a strong foundation in programming, backend development, and AI-driven solutions. Skilled in problem-solving, algorithms, and collaboration — aiming to grow as a developer and contribute to impactful tech projects.  
 
 ---
 
-##  Achievements  
-- Solved **250+ programming problems** across various platforms, enhancing problem-solving and algorithmic thinking.  
-- Developed a **comprehensive Inventory Management System** in Python using OOP principles, featuring efficient stock tracking, user management, and report generation.  
+## Experience  
+
+-  **Backend Development:**  
+  Worked with teams to Built and maintained backend systems using **Django**, **REST APIs**, and **databases**. Experience includes designing clean, scalable architectures for real-world applications.  
+  
+-  **LLM & AI Projects:**  
+  Worked on **LLM-based applications** using **LangChain** and **LangGraph**, focusing on prompt engineering, memory chains, retrieval (RAG), and tool integration. Developed solutions for tasks like **chat interfaces**, **document Q&A**, and **automation using language models**.  
+  
+-  **Project Highlights:**  
+  - Developed a **custom AI assistant** that integrates with private data sources using LangChain and vector databases.  
+  - Built a **multi-user backend system** with admin roles, JWT auth, and async task handling.  
+  - Participated in team-based projects involving **API design**, **Git version control**, and **agile workflows**.  
+- Solved **300+ programming problems** across multiple platforms, sharpening algorithmic thinking and logical problem-solving.  
+- Built a complete **Inventory Management System** using Python and OOP — featuring stock tracking, user roles, and report generation.  
 
 ---
 
-##  Skills  
-### **Technical Skills:**  
--  Python  
--  C++  
--  HTML / CSS  
--  Data Visualization
+## Skills  
 
-### **Soft Skills:**  
--  Competitive Programming  
--  Problem Solving  
--  Communication Skills  
--  Team Collaboration  
+**Technical:**  
+`Python` · `Django` · `LangChain` · `LangGraph` · `C++` · `HTML/CSS` · `AI/ML` · `Data Science` · `REST APIs` · `Databases` · `OOP` · `DSA` · `Git`  
+
+**Soft Skills:**  
+`Problem Solving` · `Competitive Programming` · `Team Collaboration` · `Communication Skills`
 
 ---
 
-##  Education  
-- **Bachelors in Data Science** – **PUCIT Lahore** *(2023-2027)*  
+## Education  
+**Bachelors in Data Science** – **PUCIT Lahore** *(2023–2027)*  
 
 ---
 
-##  Personal Details  
-- **Address:** Lahore,Punjab 
-- **Nationality:** Pakistan  
-- **Gender:** Male  
-- **Marital Status:** Single  
-- **Religion:** Islam   
-- **Languages:** English, Urdu & Punjabi  
-
----
-
-# **Let's Connect!**  
-[GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
-
+## 🤝 Let’s Connect  
+[GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)

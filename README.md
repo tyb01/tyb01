@@ -2,9 +2,6 @@
 
 **Pursuing Bachelors in Data Science** – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  
-📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
-🔗 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
-
 ---
 
 ## Objective  
@@ -51,4 +48,5 @@ A passionate Data Science student at PUCIT with a strong foundation in programmi
 ---
 
 ## 🤝 Let’s Connect  
+📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)

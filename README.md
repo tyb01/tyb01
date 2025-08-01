@@ -8,7 +8,7 @@
 ---
 
 ## Objective  
-A passionate Data Science student at PUCIT with a strong foundation in programming, backend development, and AI-driven solutions. Skilled in problem-solving, algorithms, and collaboration — aiming to grow as a developer and contribute to impactful tech projects.  
+A passionate Data Science student at PUCIT with a strong foundation in programming, backend development, and AI-driven solutions. Skilled in problem-solving, algorithms, and collaboration — aiming to grow and contribute to impactful tech projects.  
 
 ---
 

@@ -18,7 +18,12 @@ A passionate Data Science student at PUCIT with a strong foundation in programmi
   Worked with teams to Built and maintained backend systems using **Django**, **REST APIs**, and **databases**. Experience includes designing clean, scalable architectures for real-world applications.  
   
 -  **LLM & AI Projects:**  
-  Worked on **LLM-based applications** using **LangChain** and **LangGraph**, focusing on prompt engineering, memory chains, retrieval (RAG), and tool integration. Developed solutions for tasks like **chat interfaces**, **document Q&A**, and **automation using language models**.  
+  Worked on **LLM-based applications** using **LangChain** and **LangGraph**, focusing on prompt engineering, memory chains, retrieval (RAG), and tool integration. Developed solutions for tasks like **chat interfaces**, **document Q&A**, and **automation using language models**.
+
+-  **Automation & Bot Development:**  
+  Built custom browser automation tools for client use cases using tools like **Selenium, Playwright**, **undetected drivers**, and **virtual browser environments**.  
+  - Successfully developed a **Facebook Profile Automation System** that handled over **900+ Facebook IDs** — automating login, story viewing, session handling, and anti-bot evasion using iXBrowser and Python.  
+  - Delivered production-ready automation for two separate clients, ensuring performance, error handling, and scalability across hundreds of profiles.  
   
 -  **Project Highlights:**  
   - Developed a **custom AI assistant** that integrates with private data sources using LangChain and vector databases.  

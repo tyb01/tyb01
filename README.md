@@ -40,7 +40,7 @@ A passionate Data Science student at PUCIT with a strong foundation in programmi
 ---
 
 ## Education  
-**Bachelors in Data Science** – **PUCIT Lahore** *(2023–2027)*  
+**Bachelors in Data Science** – **PUCIT Lahore**
 
 ---
 

@@ -3,7 +3,6 @@
 **Bachelors in Data Science** (2023–2027) – **PUCIT Lahore**  
 📍 **Lahore, Pakistan**  
 📧 [tyb3122@gmail.com](mailto:tyb3122@gmail.com)  
-📞 0302-9629831  
 🔗 [GitHub](https://github.com/tyb01) | [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-42792a262/)  
 
 ---
